@@ -27,6 +27,23 @@ This project is about configuring a Linux Server.
 * run application, test
 * get Google Oautho2.0 to work
 
+
+## Software Packages:
+* Python
+* apache
+* sendmaik
+* Fail2Ban
+* libapache2-mod-wsgi
+* postgresql
+* git
+* httplib2
+* requests
+* oauth2client
+* sqlalchemy
+* flask
+* libpq-dev
+* psycopg2
+
 Reference
 -------------
 * https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-14-04
